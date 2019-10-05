@@ -11,8 +11,7 @@ script:
 notifications:
   email:
     recipients:
-      - fredy.ballesteros@correounivalle.edu.co
+      - victor.bucheli@correounivalle.edu.co
       - carlos.hidalgo@correounivalle.edu.co
-      - leidy.carvajal.o@correounivalle.edu.co
     on_success: always # default: change
     on_failure: always # default: always
