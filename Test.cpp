@@ -2,7 +2,7 @@
 #include <assert.h>     /* assert */
 
 void print_number(int* myInt) {
-  assert (myInt!=NULL);
+  assert (myInt!=11);
   printf ("%d\n",*myInt);
 }
 
