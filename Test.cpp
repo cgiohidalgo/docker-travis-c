@@ -8,7 +8,7 @@ void print_number(int* myInt) {
 
 int main ()
 {
-  int d=10;
+  int d=9;
   int * b = NULL;
   int * c = NULL;
 
