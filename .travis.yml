@@ -12,5 +12,6 @@ notifications:
   email:
     recipients:
       - carlos.hidalgo@correounivalle.edu.co
+      - victor.bucheli@correounivalle.edu.co
     on_success: always # default: change
     on_failure: always # default: always
