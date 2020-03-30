@@ -5,6 +5,9 @@ services:
 before_install:
   - docker build -t giovanny .
 
+script:
+  - docker run giovanny
+
 notifications:
   email:
     recipients:
